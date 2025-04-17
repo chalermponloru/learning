@@ -1,2 +1,2 @@
 # learning
-Project Learning
+Project Automated Learning
