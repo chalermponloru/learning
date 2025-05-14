@@ -1,0 +1,13 @@
+Django
+# Runserver
+python manage.py runserver
+python manage.py runserver XXXX [ XXXX = การกำหนด Port ] 
+# Update Databse
+python manage.py makemigrations
+python manage.py migrate
+
+Script.bat Runserver
+
+@echo off
+cd /d D:\Django\myproject
+python manage.py runserver 5555
